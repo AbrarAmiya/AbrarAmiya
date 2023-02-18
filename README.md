@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Abrar Amiya</h1>
 <h3 align="center">Computer Science Student, Enthusiast about AI, ML, DL, Robotics</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/geometric-animations-171119-gif-processing-creative-coding-art-everyday-geometry-httpifttt2zwg0ub--71072500353753777/">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abraramiya&label=Profile%20views&color=0e75b6&style=flat" alt="abraramiya" /> </p>
 
