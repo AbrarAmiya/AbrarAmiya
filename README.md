@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/abraramiya" target="blank"><img src="https://img.shields.io/twitter/follow/abraramiya?logo=twitter&style=for-the-badge" alt="abraramiya" /></a> </p>
 
-- 🔭 I’m currently working on **Ai, DL, ML and CP **
+- 🔭 I’m currently working on **Ai, DL, ML and CP**
 
 - 🌱 I’m currently learning **Programming, Ai and other related feilds**
 
