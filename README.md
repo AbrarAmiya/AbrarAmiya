@@ -25,8 +25,7 @@
 
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AbrarAmiya&show_icons=true&include_all_commits=true&theme=omni&count_private=true)" alt="Abrar's github stats" />
 
-\*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have used the most for coding.
-<br/>
+
 
 <a href="https://github.com/AbrarAmiya">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarAmiya&layout=compact&theme=omni" />
@@ -42,7 +41,8 @@
 <a href="https://fb.com/abrar amiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrar amiya" height="30" width="40" /></a>
 <a href="https://instagram.com/abrar_amiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrar_amiya" height="30" width="40" /></a>
 </p>
-
+\*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have used the most for coding.
+<br/>
 [website]: https://mdirtizahossain.netlify.app/
 [linkedin]: https://www.linkedin.com/in/md-irtiza-hossain/
 [vscode]: https://code.visualstudio.com/
