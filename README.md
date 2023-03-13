@@ -44,5 +44,5 @@
 
 <br/>
 
-\*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have used the most for coding.
+\NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have used the most for coding.
 
