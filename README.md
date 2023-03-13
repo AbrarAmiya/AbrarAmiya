@@ -41,28 +41,8 @@
 <a href="https://fb.com/abrar amiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrar amiya" height="30" width="40" /></a>
 <a href="https://instagram.com/abrar_amiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrar_amiya" height="30" width="40" /></a>
 </p>
-\*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have used the most for coding.
+
 <br/>
-[website]: https://mdirtizahossain.netlify.app/
-[linkedin]: https://www.linkedin.com/in/md-irtiza-hossain/
-[vscode]: https://code.visualstudio.com/
-[html5]: https://html.com/
-[css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[sass]: https://sass-lang.com/
-[js]: https://www.javascript.com/
-[react]: https://reactjs.org/
-[graphql]: https://graphql.org/
-[nodejs]: https://nodejs.org/en/
-[mongo]: https://www.mongodb.com/
-[git]: https://git-scm.com/
-[github]: https://github.com
-[terminal]: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
-[redux]: https://redux.js.org
-[firebase]: https://firebase.google.com
-[mongoose]: https://mongoosejs.com
-[python]: https://www.python.org
-[expressjs]: http://expressjs.com
-[cp]: https://www.cprogramming.com
-[tensorflow]: https://github.com/topics/tensorflow
-[php]: https://www.php.net
-![wp4294829-batman-4k-wallpapers (4)](https://user-images.githubusercontent.com/115402065/219966968-6aa6f83a-40ba-4716-b929-6510c7697630.jpg)
+
+\*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have used the most for coding.
+
