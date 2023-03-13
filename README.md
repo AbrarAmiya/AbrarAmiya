@@ -21,7 +21,7 @@
 
 ---
 
-### GitHub Stats
+### GitHub Stats:
 
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AbrarAmiya&show_icons=true&include_all_commits=true&theme=omni&count_private=true)" alt="Abrar's github stats" />
 
