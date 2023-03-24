@@ -42,7 +42,8 @@
 <a href="https://instagram.com/abrar_amiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrar_amiya" height="30" width="40" /></a>
 </p>
 
-<br/>
-
+---
+[![Abrar Amiya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbrarAmiya)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 
 \*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have used the most for coding.
 
