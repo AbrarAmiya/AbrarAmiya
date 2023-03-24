@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abrar007amiya007@gmail.com**
 
-- 🔗 **Connect with me also by:** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+- 🔗 **Also connect with me by:** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
 <p align="left">
 <a href="https://twitter.com/abraramiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abraramiya" height="30" width="40" /></a>
