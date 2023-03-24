@@ -1,6 +1,6 @@
 ![cool-dragon-ball-v5cm48e0q631czbu](https://user-images.githubusercontent.com/115402065/219874479-27a53789-506f-4b83-bd05-d3f4ed915085.jpg)
 
-### Bonjour, I'm [Abrar Amiya!](https://abraramiya.github.io) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40">
+### Bonjour, I'm [Abrar Amiya!](https://abraramiya.github.io) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="27">
 
 ## Computer Science Student, Enthusiast about AI, ML & Robotics 📚📚
 
