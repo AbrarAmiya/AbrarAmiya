@@ -5,7 +5,7 @@
 ## Computer Science Student, Enthusiast about AI, ML & Robotics 📚📚
 
 
-- 🔭 I’m currently working on **Ai, DL, ML and CP**
+- 🔭 I’m currently working on **AI, ML, Problem Solving and Data Analysis**
 
 - 🌱 I’m currently learning **Programming, Ai and other related feilds**
 
