@@ -1,4 +1,5 @@
 ![cool-dragon-ball-v5cm48e0q631czbu](https://user-images.githubusercontent.com/115402065/219874479-27a53789-506f-4b83-bd05-d3f4ed915085.jpg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abraramiya&label=Profile%20views&color=0e75b6&style=flat" alt="abraramiya" /> </p>
 
 ### Bonjour, I'm [Abrar Amiya!](https://abraramiya.github.io) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="27">
 
