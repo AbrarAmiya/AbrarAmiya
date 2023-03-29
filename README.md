@@ -47,7 +47,7 @@
 
 
 ---
-[![Abrar Amiya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbrarAmiya&theme=synthwave-84)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 
 #### Note: Top languages does not indicate my skill level, it's a github metric of which languages I have used the most for coding.
 
