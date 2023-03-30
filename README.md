@@ -9,6 +9,7 @@
 
 ## Computer Science Student, Enthusiast about AI, ML & Robotics 📚📚
 
+- 🏫 I’m studying **Computer Science** at [**BRAC University**](https://www.bracu.ac.bd/)
 
 - 🔭 I’m currently working on **AI, ML, Problem Solving and Data Analysis**
 
