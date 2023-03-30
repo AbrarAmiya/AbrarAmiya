@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abraramiya&label=Profile%20views&color=0e75b6&style=flat" alt="abraramiya" /> </p>
 
-### Bonjour, I'm [Abrar Amiya!](https://abraramiya.github.io) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="27">
+### Hey there, I'm [Abrar Amiya!](https://abraramiya.github.io) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="27">
 
 ## Computer Science Student, Enthusiast about AI, ML & Robotics 📚📚
 
