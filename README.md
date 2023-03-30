@@ -41,7 +41,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abraramiya&show_icons=true&locale=en&layout=compact&theme=prussian" alt="abraramiya" /></p>
 
 ---
-[![Abrar Amiya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbrarAmiya&theme=synthwave-84)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abrar Amiya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbrarAmiya&theme=arctic)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
