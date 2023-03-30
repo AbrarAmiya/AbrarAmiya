@@ -35,13 +35,10 @@
 
 ### GitHub Stats:    <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width = "60">
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AbrarAmiya&show_icons=true&include_all_commits=true&theme=omni&count_private=true)" alt="Abrar's github stats" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AbrarAmiya&show_icons=true&include_all_commits=true&theme=prussian&count_private=true)" alt="Abrar's github stats" />
 
 
-
-<a href="https://github.com/AbrarAmiya">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarAmiya&layout=compact&theme=omni" />
-</a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abraramiya&show_icons=true&locale=en&layout=compact&theme=prussian" alt="abraramiya" /></p>
 
 ---
 [![Abrar Amiya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbrarAmiya&theme=synthwave-84)](https://github.com/ashutosh00710/github-readme-activity-graph)
