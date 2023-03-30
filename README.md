@@ -7,13 +7,13 @@
 
 ### Hey there, I'm [Abrar Amiya!](https://abraramiya.github.io) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="27">
 
-## Computer Science Student, Enthusiast about AI, ML & Robotics 📚📚
+## Computer Science Student, Enthusiast about Artificial Intelligence, Machine Learning & Robotics 📚📚
 
 - 🏫 I’m studying **Computer Science** at [**BRAC University**](https://www.bracu.ac.bd/)
 
-- 🔭 I’m currently working on **AI, ML, Problem Solving and Video Editing**
+- 🔭 I’m currently working on **Artificial Intelligence, Machine Learning, Problem Solving and Video Editing**
 
-- 🌱 I’m currently learning **Programming, AI, ML, and other related feilds**
+- 🌱 I’m currently learning **Programming, Artificial Intelligence, Machine Learning, and other related feilds**
 
 - 💬 Ask me about **Data Structures, OOP, AI, Algorithm or any other related feild**
 
