@@ -11,11 +11,11 @@
 
 - 🏫 I’m studying **Computer Science** at [**BRAC University**](https://www.bracu.ac.bd/)
 
-- 🔭 I’m currently working on **AI, ML, Problem Solving and Data Analysis**
+- 🔭 I’m currently working on **AI, ML, Problem Solving and Video Editing**
 
-- 🌱 I’m currently learning **Programming, Ai and other related feilds**
+- 🌱 I’m currently learning **Programming, AI, ML, and other related feilds**
 
-- 💬 Ask me about **Data Structures, OOP, Algorithm**
+- 💬 Ask me about **Data Structures, OOP, AI, Algorithm or any other related feild**
 
 - 📫 How to reach me **abrar007amiya007@gmail.com**
 
