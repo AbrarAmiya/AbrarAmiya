@@ -7,7 +7,7 @@
 
 ### Hey there, I'm [Abrar Amiya!](https://abraramiya.github.io) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="27">
 
-## Computer Science Student, Enthusiast about Artificial Intelligence, Machine Learning & Robotics 📚📚
+## Computer Science Student, Enthusiast about AI, Machine Learning & Robotics 📚📚
 
 - 🏫 I’m studying **Computer Science** at [**BRAC University**](https://www.bracu.ac.bd/)
 
