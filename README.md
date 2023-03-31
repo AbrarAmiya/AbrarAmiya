@@ -11,7 +11,7 @@
 
 - 🏫 I’m studying **Computer Science** at [**BRAC University**](https://www.bracu.ac.bd/)
 
-- 🔭 I’m currently working on **Artificial Intelligence, Machine Learning, Problem Solving and Video Editing**
+- 🔭 I’m currently working at [*Laboratory of Space System Engineering & Technology - LaSSET*](https://www.facebook.com/braculasset/)
 
 - 🌱 I’m currently learning **Programming, Artificial Intelligence, Machine Learning, and other related feilds**
 
