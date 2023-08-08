@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working at [**LaSSET -**](https://www.facebook.com/braculasset/)[***(Laboratory of Space System Engineering & Technology)***](https://www.facebook.com/braculasset/)
 
-- 🌱 I’m currently learning **Programming, Artificial Intelligence, Machine Learning, and other related feilds**
+- 🌱 I’m currently learning **Programming, Artificial Intelligence, Machine Learning, and other related fields**
 
-- 💬 Ask me about **Data Structures, OOP, AI, Algorithm or any other related feild**
+- 💬 Ask me about **Data Structures, OOP, AI, Algorithm, or any other related field**
 
 - 📫 How to reach me **abrar007amiya007@gmail.com**
 
@@ -30,13 +30,8 @@
 </p>
 
 
-
-#### GitHub Stats:    <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width = "25">
-
-<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AbrarAmiya&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true)" alt="Abrar's github stats" width="500" height="500"/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abraramiya&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abraramiya" /></p>
-<div class="spacer"></div> 
+#### GitHub Stats:    <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="32">
+<p><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AbrarAmiya&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true)" alt="Abrar's github stats" width="650" height="450"/></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abraramiya&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abraramiya" width="350" height="250" /></p>
 
 
   <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
