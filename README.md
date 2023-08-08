@@ -31,7 +31,9 @@
 
 
 #### GitHub Stats:    <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="32">
-<p><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AbrarAmiya&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true)" alt="Abrar's github stats" width="650" height="450"/></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abraramiya&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abraramiya" width="350" height="250" /></p>
+<p><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AbrarAmiya&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true)" alt="Abrar's github stats" width="650" height="450"/></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrarAmiya&theme=tokyo-day" width="1000" height="300">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abraramiya&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abraramiya" width="350" height="250" /></p>
 
 
   <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
@@ -40,6 +42,6 @@
 ##
 
 <div class="spacer"></div> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrarAmiya&theme=tokyo-day" width="1000" height="300">
+
 Note: Top languages do not indicate my skill level, it's a GitHub metric of which languages I have used the most for coding.
 ##
