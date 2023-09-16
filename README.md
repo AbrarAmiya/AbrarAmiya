@@ -2,7 +2,6 @@
 ![wallpaperflare com_wallpaper (9)](https://user-images.githubusercontent.com/115402065/228970710-3b91608a-4087-45c6-819b-b5b6f944d28b.jpg)
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abraramiya&label=Profile%20views&color=0e75b6&style=flat" alt="abraramiya" /> </p>
 
 ### Hey there, I'm [Abrar Amiya!](https://abraramiya.github.io) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="27">
@@ -30,7 +29,7 @@
 </p>
 
 
-#### GitHub Stats: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="25"><p><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AbrarAmiya&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true)" alt="Abrar's github stats" width="400" height="200"/></p>
+#### GitHub Stats: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"><p><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AbrarAmiya&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true)" alt="Abrar's github stats" width="400" height="200"/></p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrarAmiya&theme=gotham" width="800" height="300">
 
   <h3 align="center">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abraramiya&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abraramiya" width="250" height="150" /></p>
