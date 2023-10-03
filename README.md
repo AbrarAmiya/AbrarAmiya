@@ -4,21 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abraramiya&label=Profile%20views&color=0e75b6&style=flat" alt="abraramiya" /> </p>
 
-### Hey there, I'm [Abrar Amiya!](https://abraramiya.github.io) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="27">
+### I'm [Abrar Amiya!](https://abraramiya.github.io) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="27">
 
-## Computer Science Student, Enthusiast about AI, Machine Learning & Robotics 📚📚
+A Computer Science Student and enthusiast about AI, Machine Learning, and robotics 📚📚. I am currently pursuing my degree in 
+🏫 **Computer Science** at [**BRAC University**](https://www.bracu.ac.bd/) 
+###
+##
+ 🔭 I’m currently working at [**LaSSET -**](https://www.facebook.com/braculasset/)[***(Laboratory of Space System Engineering & Technology)***](https://www.facebook.com/braculasset/)
 
-- 🏫 I’m studying **Computer Science** at [**BRAC University**](https://www.bracu.ac.bd/)
+🌱 learning **Programming, Artificial Intelligence, Machine Learning, and other related fields**
 
-- 🔭 I’m currently working at [**LaSSET -**](https://www.facebook.com/braculasset/)[***(Laboratory of Space System Engineering & Technology)***](https://www.facebook.com/braculasset/)
+💬 Ask me about **Data Structures, OOP, AI, Algorithm, or any other related field**
 
-- 🌱 I’m currently learning **Programming, Artificial Intelligence, Machine Learning, and other related fields**
+📫 Reach me through my email **abrar007amiya007@gmail.com**
 
-- 💬 Ask me about **Data Structures, OOP, AI, Algorithm, or any other related field**
-
-- 📫 How to reach me **abrar007amiya007@gmail.com**
-
-- 🔗 **Also connect with me by:** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+🔗 **Also connect with me by:** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
 <p align="left">
 <a href="https://twitter.com/abraramiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abraramiya" height="30" width="40" /></a>
