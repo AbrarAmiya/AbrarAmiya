@@ -12,7 +12,7 @@ A Computer Science Student and enthusiast about AI, Machine Learning, and roboti
 ##
  🔭 I’m currently working at [**LaSSET -**](https://www.facebook.com/braculasset/)[***(Laboratory of Space System Engineering & Technology)***](https://www.facebook.com/braculasset/)
 
-🌱 Pursuing Profound Expertise in **Software Design, Artificial Intelligence, Data Science, and Closely Aligned Disciplines**.
+🌱 Pursuing Profound Expertise in **Software Development, Artificial Intelligence, Data Science, and Closely Aligned Disciplines**.
 
 💬 Ask me about **Data Structures, OOP, AI, Algorithm, or any other related field**
 ##
