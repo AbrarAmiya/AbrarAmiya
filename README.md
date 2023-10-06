@@ -7,30 +7,28 @@
 ### I'm [Abrar Amiya!](https://abraramiya.github.io) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="27">
 
 A Computer Science Student and enthusiast about AI, Machine Learning, and robotics 📚📚. I am currently pursuing my degree in 
-🏫 **Computer Science** at [**BRAC University**](https://www.bracu.ac.bd/) 
+**Computer Science** at [**BRAC University**](https://www.bracu.ac.bd/) 🏫 
 ###
 ##
  🔭 I’m currently working at [**LaSSET -**](https://www.facebook.com/braculasset/)[***(Laboratory of Space System Engineering & Technology)***](https://www.facebook.com/braculasset/)
 
-🌱 learning **Programming, Artificial Intelligence, Machine Learning, and other related fields**
+🌱 Pursuing Profound Expertise in **Software Design, Artificial Intelligence, Data Science, and Closely Aligned Disciplines**.
 
 💬 Ask me about **Data Structures, OOP, AI, Algorithm, or any other related field**
-
-📫 Reach me through my email **abrar007amiya007@gmail.com**
-
-🔗 **Also connect with me by:** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+##
+📫 Reach me through my email **abrar007amiya007@gmail.com** 🔗 Also reach me out through <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
 <p align="left">
 <a href="https://twitter.com/abraramiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abraramiya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abrar amiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar amiya" height="30" width="40" /></a>
 <a href="https://fb.com/abrar amiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrar amiya" height="30" width="40" /></a>
 <a href="https://instagram.com/abrar_amiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrar_amiya" height="30" width="40" /></a>
-
 </p>
 
-<table>
-<thead><b>GitHub Stats:</b><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"></thead>
+##
 
+<table>
+<thead><b>GitHub Stats: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"></b></thead>
  <tr>
   <td><p><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AbrarAmiya&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true)" alt="Abrar's github stats" width="400" height="200"/></p>
   </td>
