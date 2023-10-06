@@ -7,7 +7,7 @@
 ### I'm [Abrar Amiya!](https://abraramiya.github.io) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="27">
 
 A Computer Science Student and enthusiast about **Artificial Intelligence, Dev, Robotics, and Data Science** 📚📚. I am currently pursuing my degree in 
-**Computer Science** at [**BRAC University**](https://www.bracu.ac.bd/) 🏫 
+**Computer Science and Engineering** at [**BRAC University**](https://www.bracu.ac.bd/) 🏫 
 ###
 ##
  🔭 I’m currently working at [**LaSSET -**](https://www.facebook.com/braculasset/)[***(Laboratory of Space System Engineering & Technology)***](https://www.facebook.com/braculasset/)
