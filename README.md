@@ -17,7 +17,8 @@ A Computer Science Student and enthusiast about **Artificial Intelligence, Dev, 
 
 💬 Ask me about **Data Structures, OOP, AI, Algorithm, or any other related field**
 ##
-📫 Reach me through my email **abrar007amiya007@gmail.com** 🔗 Also follow me through <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+📫 Reach me through my email **abrar007amiya007@gmail.com** 
+🔗 Also follow me through <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
 <p align="left">
 <a href="https://twitter.com/abraramiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abraramiya" height="30" width="40" /></a>
