@@ -7,7 +7,7 @@
 ### I'm [Abrar Amiya!](https://abraramiya.github.io) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="42">
 
 A Computer Science Student and enthusiast about **Artificial Intelligence, Dev, Robotics, and Data Science** 📚📚. I am currently pursuing my degree in 
-**Computer Science and Engineering** at [**BRAC University**](https://www.bracu.ac.bd/) 🏫
+**Computer Science and Engineering** at [**BRAC University**](https://www.bracu.ac.bd/)🏫
 ###
 ---
 ##
